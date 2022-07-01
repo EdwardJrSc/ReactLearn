@@ -5,3 +5,8 @@
 .: COMMIT 3 - 300622 :.
 
 - Create folder with a new app my-app-fc
+
+.: COMMIT 4 - 300622:.
+
+- Create new app testimonio-fc
+- Create componente funcional Testimonial
