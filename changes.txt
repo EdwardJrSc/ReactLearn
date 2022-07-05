@@ -1,12 +1,19 @@
 .: COMMIT 2 - 240622 :.
 
-- Game Tic Tac Toe
+- Game Tic Tac Toe.
+
 
 .: COMMIT 3 - 300622 :.
 
-- Create folder with a new app my-app-fc
+- Create folder with a new app my-app-fc.
+
 
 .: COMMIT 4 - 300622:.
 
-- Create new app testimonio-fc
-- Create componente funcional Testimonial
+- Create new app testimonio-fc.
+- Create componente funcional Testimonial.
+
+
+.: COMMIT 5 - 050722 :.
+
+- Delete testimonio app and create new component testimonio-fc.
