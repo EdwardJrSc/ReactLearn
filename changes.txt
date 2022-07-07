@@ -23,6 +23,18 @@
 
 - Create files testimonio.css and update app.css.
 
+
+.: COMMIT 7 - 060722 :.
+
+- Import file path css in Testimonio.css.
+- Create styles css from class App and contenedor-principal in Testimonio.js
+  in file App.css.
+- Create styles css from class (contenedor-principal, imagen-testimonio
+  contenedor-texto-testimonio) in file testimonio.css.
+
+
+
+
 Notes: 
 - Para poder ver los componentes en el html debemos exportar
   en cada uno de los archivos donde se encuentren los componentes
@@ -30,5 +42,6 @@ Notes:
   a cada uno de los componentes; teniendo en cuenta la ruta del
   file.
 - En exportacion nombrada (export function) podemos exportar varios
-  componentes del mismo archivo, pero si usamos exportacion po default
+  componentes del mismo archivo (en el archivo app.js se debe importar { NOMBRE_COMPONENTE }).
+  pero si usamos exportacion po default
   (export default) solo podemos exportar uno solo.
