@@ -33,6 +33,18 @@
   contenedor-texto-testimonio) in file testimonio.css.
 
 
+.: COMMIT 8 - 070722 :.
+
+- Used props in the file Testimonio.js to change static data to dinamic data {props.propierty}.
+- Testimonials were created for each person.
+- added styles for (nombres-testimonio, cargo-testimonio, texto-testimonio)
+
+
+RETOS:
+[] Colocar texto en negrita.
+[] Volver dinamico el alt de las imagenes.
+[] Optimizar los componentes testimonios usando un archivo diferente para los datos.
+
 
 
 Notes: 
