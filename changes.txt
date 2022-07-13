@@ -40,6 +40,15 @@
 - added styles for (nombres-testimonio, cargo-testimonio, texto-testimonio)
 
 
+.: COMMIT 9 - 120722 :.
+
+- Deleted files.
+- Created a new app contador-clic
+- Created folder components and created two news components (Boton, Contador).
+- Add styles to components Boton.
+- Created folder images whith freecodeCamp logo.
+
+
 RETOS:
 [] Colocar texto en negrita.
 [] Volver dinamico el alt de las imagenes.
@@ -57,3 +66,5 @@ Notes:
   componentes del mismo archivo (en el archivo app.js se debe importar { NOMBRE_COMPONENTE }).
   pero si usamos exportacion po default
   (export default) solo podemos exportar uno solo.
+- En cada componente es que se debe agregar los estilos con importaciones Ej
+  import '../styles/testimonio.css';
