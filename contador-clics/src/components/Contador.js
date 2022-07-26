@@ -1,4 +1,5 @@
 import React from 'react';
+import '../syles/Contador.css';
 
 function Contador({ numClics }) {
     return (

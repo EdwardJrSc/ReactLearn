@@ -43,10 +43,16 @@
 .: COMMIT 9 - 120722 :.
 
 - Deleted files.
-- Created a new app contador-clic
+- Created a new app contador-clic.
 - Created folder components and created two news components (Boton, Contador).
 - Add styles to components Boton.
 - Created folder images whith freecodeCamp logo.
+
+
+.: COMMIT 10 - 250722 :.
+
+- Created new file Contador.css.
+- Add style from contador component.
 
 
 RETOS:
