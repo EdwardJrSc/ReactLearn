@@ -55,6 +55,22 @@
 - Add style from contador component.
 
 
+.: COMMIT 11 - 260722 :.
+
+- Created a new app calculadora.
+- Created folder components, images and syles.
+- Created components Boton.
+  . Used props.children to call components value.
+  . Created file Boton.css.
+  . Used arrow function to create and render components directly.
+- Created component BotonClear.
+  . Created file Botonclear.css.
+- Created component Pantalla.
+  . Created file Paltalla.css.
+  . Used arrow function to create and to render component directly.
+
+
+
 RETOS:
 [] Colocar texto en negrita.
 [] Volver dinamico el alt de las imagenes.
